@@ -1,0 +1,24 @@
+body{
+  background:url(../Train-Schedule/1.jpg)
+}
+.container{
+  background:url(../Train-Schedule/1.jpg)
+}
+.jumbotron{
+  background-color:rgb(97, 143, 5);
+  color:lightgoldenrodyellow;
+ font-size: xx-large;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: x-large;
+ 
+}
+.card{
+  background-color: lightyellow;
+
+}
+.card-header{
+  color:lightgoldenrodyellow;
+
+  background-color: rgb(77, 116, 9);
+}
+
